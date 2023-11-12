@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(179, 176, 176);
+}
+.first{
+    background-color: black;
+    width : 90%;
+    height : 1600px;
+    margin: 50px;
+    color:white;
+    text-align: center;
+    position: relative;
+    left:10px;
+    display: block;
+  }
+  
+  h1{
+    font-size:4rem;
+    padding-top: 10px;
+    margin:0px;
+  }
+  h3{
+    margin-top:5px;
+    font-family: 'Zilla Slab', serif;
+  }
+  .para{
+      background-color: rgb(179, 176, 176);
+      width: 78%;
+      position: relative;
+      color: black;
+      font-weight: 300;
+      left:10%;
+      padding: 20px;
+      text-align: justify;
+  }
+  img{
+    padding: 20px;
+    width: 78%;
+  }
+  
